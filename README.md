@@ -13,3 +13,10 @@ Just copy the file on your .vim/colors folder.
 If you prefer the scheme to match the original monokai background color, put this in your .vimrc file: 
     let g:molokai_original = 1
 
+
+#Fork
+
+Differences between this fork and tomasr's original Molokai:
+- highlight VertSplit with StatusLine colors to allow fillchars' vert to be a
+  space
+
